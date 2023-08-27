@@ -16,6 +16,7 @@ int main()
                 window.close();
         }
         //hola asdrubal
+        //mamapichas git
         window.clear();
         window.draw(shape);
         window.display();
